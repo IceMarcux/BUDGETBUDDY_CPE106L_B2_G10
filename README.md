@@ -8,10 +8,11 @@ A comprehensive financial management solution tailored meet the diverse needs of
 4. View balance (5000 max budget)
 
 ## Getting Started
-1. Sign Up
-2. Set Up Your Budget
-3. Start Tracking
-4. Review Insights
+1. User is prompted to the main screen
+2. Input data (Expenses; Item Name; Item Price; Date)
+3. View expenses in the tree view widget
+4. User can Update and Delete data
+5. View total expenses and remaining balance (up to 5k only)
 
 ## Requirements
 To run the program, the following dependencies are needed:
